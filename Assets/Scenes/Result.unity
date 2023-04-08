@@ -238,7 +238,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: a298c99cff2dd4a48b2accde4cae74f5, type: 3}
     m_FontSize: 65
     m_FontStyle: 1
     m_BestFit: 0
@@ -276,8 +276,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.363, y: 222}
-  m_SizeDelta: {x: 609.652, y: 80}
+  m_AnchoredPosition: {x: 0, y: 227}
+  m_SizeDelta: {x: 600, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &503316027
 GameObject:
