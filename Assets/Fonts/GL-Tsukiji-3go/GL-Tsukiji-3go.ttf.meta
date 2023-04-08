@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: daa2b58d10e47a24ab497a6edacabd0a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GL-Tsukiji-3go
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d9cc6351a9490114983fe32df5310358, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
