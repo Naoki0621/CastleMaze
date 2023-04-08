@@ -259,6 +259,7 @@ MonoBehaviour:
   angleSpeed: 2
   jumpSpeed: 8
   gravity: 20
+  coins: 0
   overText: {fileID: 2053481233}
   clearText: {fileID: 98737571}
   coinText: {fileID: 1633775958}
@@ -267,7 +268,6 @@ MonoBehaviour:
   jumpSound: {fileID: 8300000, guid: 376d98f22eaaaa34a8c12e0c1b6aa386, type: 3}
   deathSound: {fileID: 8300000, guid: e7a074f5a73b71b40a3fedb0500d213e, type: 3}
   coinGet: {fileID: 8300000, guid: d0c16d77886bccf4da60822b16971de5, type: 3}
-  coins: 0
 --- !u!82 &19852097
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1230,7 +1230,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: d9cc6351a9490114983fe32df5310358, type: 3}
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 0

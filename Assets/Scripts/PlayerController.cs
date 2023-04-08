@@ -94,7 +94,7 @@ public class PlayerController : MonoBehaviour
             resultCoin = coins; //リザルト画面表示用の硬貨を更新
             coinText.GetComponent<Text>().text = coins.ToString(); //「プレイ中」状態で硬貨数を表示
             GetComponent<AudioSource>().PlayOneShot(coinGet);
-            Destroy(collision.gameObject); //
+            Destroy(collision.gameObject);
 
         }
     }
@@ -112,7 +112,7 @@ public class PlayerController : MonoBehaviour
     public void isGameClear()
     {
         gameState = "gameclear"; //「ゲームクリア」状態
-        clearText.GetComponent<Text>().text = "ごおるしました"; //テキスト更新
+        clearText.GetComponent<Text>().text = "ゴール!!"; //テキスト更新
         clearText.SetActive(true); //ゲームクリアテキスト表示
         resultButton.SetActive(true);//リザルトボタン表示
     }

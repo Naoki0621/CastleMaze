@@ -250,7 +250,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: RESULT SCORE
+  m_Text: "\u7D50 \u679C \u767A \u8868"
 --- !u!222 &177931384
 CanvasRenderer:
   m_ObjectHideFlags: 0
